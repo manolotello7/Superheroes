@@ -1,0 +1,12 @@
+com/example/superheroes/config/SwaggerConfig.class
+com/example/superheroes/SuperheroesApplication.class
+com/example/superheroes/model/SuperheroesRequest.class
+com/example/superheroes/entity/Superheroes.class
+com/example/superheroes/config/WebMvcConfig.class
+com/example/superheroes/exception/ResourceNotFoundException.class
+com/example/superheroes/controller/SuperheroesController.class
+com/example/superheroes/config/SecurityConfig.class
+com/example/superheroes/repository/SuperheroesRepository.class
+com/example/superheroes/model/SuperheroesResponse.class
+com/example/superheroes/service/SuperheroesService.class
+com/example/superheroes/model/GeneralResponse.class

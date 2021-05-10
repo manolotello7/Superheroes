@@ -1,0 +1,8 @@
+com.example.superheroes
+com.example.superheroes.config
+com.example.superheroes.controller
+com.example.superheroes.entity
+com.example.superheroes.exception
+com.example.superheroes.model
+com.example.superheroes.repository
+com.example.superheroes.service

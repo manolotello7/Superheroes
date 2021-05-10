@@ -1,0 +1,153 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.11.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.4.5/spring-boot-starter-data-jpa-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.4.5/spring-boot-starter-aop-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.4.5/spring-boot-starter-jdbc-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-jdbc/5.3.6/spring-jdbc-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/hibernate/hibernate-core/5.4.30.Final/hibernate-core-5.4.30.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar:/Users/manuelgutierrezdelgado/.m2/repository/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar:/Users/manuelgutierrezdelgado/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.4/jaxb-runtime-2.3.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jaxb/txw2/2.3.4/txw2-2.3.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.12/istack-commons-runtime-3.0.12.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/data/spring-data-jpa/2.4.8/spring-data-jpa-2.4.8.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/data/spring-data-commons/2.4.8/spring-data-commons-2.4.8.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-orm/5.3.6/spring-orm-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-context/5.3.6/spring-context-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-tx/5.3.6/spring-tx-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-beans/5.3.6/spring-beans-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-aspects/5.3.6/spring-aspects-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.4.5/spring-boot-starter-web-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.4.5/spring-boot-starter-json-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.4.5/spring-boot-starter-tomcat-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.45/tomcat-embed-core-9.0.45.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.45/tomcat-embed-websocket-9.0.45.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-web/5.3.6/spring-web-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-webmvc/5.3.6/spring-webmvc-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-expression/5.3.6/spring-expression-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter/2.4.5/spring-boot-starter-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot/2.4.5/spring-boot-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.5/spring-boot-autoconfigure-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.4.5/spring-boot-starter-logging-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar:/Users/manuelgutierrezdelgado/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-jcl/5.3.6/spring-jcl-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-security/2.4.5/spring-boot-starter-security-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-config/5.4.6/spring-security-config-5.4.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-web/5.4.6/spring-security-web-5.4.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-actuator/2.4.5/spring-boot-starter-actuator-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.4.5/spring-boot-actuator-autoconfigure-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-actuator/2.4.5/spring-boot-actuator-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/micrometer/micrometer-core/1.6.6/micrometer-core-1.6.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar:/Users/manuelgutierrezdelgado/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/manuelgutierrezdelgado/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/projectlombok/lombok-maven-plugin/1.18.20.0/lombok-maven-plugin-1.18.20.0.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-cache/2.4.5/spring-boot-starter-cache-2.4.5.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-context-support/5.3.6/spring-context-support-5.3.6.jar:/Users/manuelgutierrezdelgado/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar:/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar:/Users/manuelgutierrezdelgado/.m2/repository/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar:/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java:/Users/manuelgutierrezdelgado/Desktop/superheroes/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'superheroes 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/manuelgutierrezdelgado/Desktop/superheroes/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'superheroes 0.0.1-SNAPSHOT API'
+com.example.superheroes.repository
+com.example.superheroes
+com.example.superheroes.config
+com.example.superheroes.config
+com.example.superheroes.config
+com.example.superheroes.entity
+com.example.superheroes.controller
+com.example.superheroes.model
+com.example.superheroes.model
+com.example.superheroes.model
+com.example.superheroes.service
+com.example.superheroes.exception
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.4.5/spring-boot-starter-data-jpa-2.4.5.jar = 1620647713788
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.4.5/spring-boot-starter-aop-2.4.5.jar = 1620647713832
+/Users/manuelgutierrezdelgado/.m2/repository/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar = 1620647714224
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.4.5/spring-boot-starter-jdbc-2.4.5.jar = 1620647713832
+/Users/manuelgutierrezdelgado/.m2/repository/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar = 1620647713840
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-jdbc/5.3.6/spring-jdbc-5.3.6.jar = 1620647714331
+/Users/manuelgutierrezdelgado/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar = 1620647714340
+/Users/manuelgutierrezdelgado/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar = 1620647714396
+/Users/manuelgutierrezdelgado/.m2/repository/org/hibernate/hibernate-core/5.4.30.Final/hibernate-core-5.4.30.Final.jar = 1620647716486
+/Users/manuelgutierrezdelgado/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar = 1620647714812
+/Users/manuelgutierrezdelgado/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar = 1620647715793
+/Users/manuelgutierrezdelgado/.m2/repository/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar = 1620647716729
+/Users/manuelgutierrezdelgado/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar = 1620647690730
+/Users/manuelgutierrezdelgado/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar = 1620647715419
+/Users/manuelgutierrezdelgado/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar = 1620647715950
+/Users/manuelgutierrezdelgado/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar = 1620647716442
+/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.4/jaxb-runtime-2.3.4.jar = 1620647716933
+/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jaxb/txw2/2.3.4/txw2-2.3.4.jar = 1620647716893
+/Users/manuelgutierrezdelgado/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.12/istack-commons-runtime-3.0.12.jar = 1620647716956
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/data/spring-data-jpa/2.4.8/spring-data-jpa-2.4.8.jar = 1620647717082
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/data/spring-data-commons/2.4.8/spring-data-commons-2.4.8.jar = 1620647717352
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-orm/5.3.6/spring-orm-5.3.6.jar = 1620647717383
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-context/5.3.6/spring-context-5.3.6.jar = 1620647717665
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-tx/5.3.6/spring-tx-5.3.6.jar = 1620647717477
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-beans/5.3.6/spring-beans-5.3.6.jar = 1620647717795
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-aspects/5.3.6/spring-aspects-5.3.6.jar = 1620647717814
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.4.5/spring-boot-starter-web-2.4.5.jar = 1620647717816
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.4.5/spring-boot-starter-json-2.4.5.jar = 1620647717831
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar = 1620647718171
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar = 1620647717900
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar = 1620647718173
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar = 1620647718177
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar = 1620647718194
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.4.5/spring-boot-starter-tomcat-2.4.5.jar = 1620647718206
+/Users/manuelgutierrezdelgado/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.45/tomcat-embed-core-9.0.45.jar = 1620647719187
+/Users/manuelgutierrezdelgado/.m2/repository/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar = 1620647718850
+/Users/manuelgutierrezdelgado/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.45/tomcat-embed-websocket-9.0.45.jar = 1620647718862
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-web/5.3.6/spring-web-5.3.6.jar = 1620647719407
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-webmvc/5.3.6/spring-webmvc-5.3.6.jar = 1620647719465
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-expression/5.3.6/spring-expression-5.3.6.jar = 1620647719510
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter/2.4.5/spring-boot-starter-2.4.5.jar = 1620647719511
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot/2.4.5/spring-boot-2.4.5.jar = 1620647719779
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.5/spring-boot-autoconfigure-2.4.5.jar = 1620647720082
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.4.5/spring-boot-starter-logging-2.4.5.jar = 1620647719781
+/Users/manuelgutierrezdelgado/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar = 1620647689387
+/Users/manuelgutierrezdelgado/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar = 1620647689479
+/Users/manuelgutierrezdelgado/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar = 1620647720085
+/Users/manuelgutierrezdelgado/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar = 1620647720135
+/Users/manuelgutierrezdelgado/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar = 1620647720137
+/Users/manuelgutierrezdelgado/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar = 1620647720168
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar = 1620647720442
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-jcl/5.3.6/spring-jcl-5.3.6.jar = 1620647720174
+/Users/manuelgutierrezdelgado/.m2/repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar = 1620647720513
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-security/2.4.5/spring-boot-starter-security-2.4.5.jar = 1620647720461
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar = 1620647720576
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-config/5.4.6/spring-security-config-5.4.6.jar = 1620647720826
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar = 1620647720911
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/security/spring-security-web/5.4.6/spring-security-web-5.4.6.jar = 1620647721051
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-actuator/2.4.5/spring-boot-starter-actuator-2.4.5.jar = 1620647721052
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.4.5/spring-boot-actuator-autoconfigure-2.4.5.jar = 1620647721371
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-actuator/2.4.5/spring-boot-actuator-2.4.5.jar = 1620647721401
+/Users/manuelgutierrezdelgado/.m2/repository/io/micrometer/micrometer-core/1.6.6/micrometer-core-1.6.6.jar = 1620647721400
+/Users/manuelgutierrezdelgado/.m2/repository/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar = 1620647721435
+/Users/manuelgutierrezdelgado/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar = 1620647721901
+/Users/manuelgutierrezdelgado/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar = 1620647721957
+/Users/manuelgutierrezdelgado/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar = 1620647722077
+/Users/manuelgutierrezdelgado/.m2/repository/org/projectlombok/lombok-maven-plugin/1.18.20.0/lombok-maven-plugin-1.18.20.0.jar = 1620647723404
+/Users/manuelgutierrezdelgado/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar = 1620647723565
+/Users/manuelgutierrezdelgado/.m2/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar = 1620647723919
+/Users/manuelgutierrezdelgado/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar = 1620647646355
+/Users/manuelgutierrezdelgado/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar = 1620647723979
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/boot/spring-boot-starter-cache/2.4.5/spring-boot-starter-cache-2.4.5.jar = 1620647723922
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/spring-context-support/5.3.6/spring-context-support-5.3.6.jar = 1620647724010
+/Users/manuelgutierrezdelgado/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar = 1620647699006
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar = 1620647724541
+/Users/manuelgutierrezdelgado/.m2/repository/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.jar = 1620647724549
+/Users/manuelgutierrezdelgado/.m2/repository/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.jar = 1620647724587
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar = 1620647724598
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.jar = 1620647724607
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.jar = 1620647724655
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar = 1620647724679
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar = 1620647724697
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar = 1620647724745
+/Users/manuelgutierrezdelgado/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar = 1620647725156
+/Users/manuelgutierrezdelgado/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar = 1620647725128
+/Users/manuelgutierrezdelgado/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar = 1620647725167
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar = 1620647704853
+/Users/manuelgutierrezdelgado/.m2/repository/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar = 1620647704852
+/Users/manuelgutierrezdelgado/.m2/repository/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar = 1620647725170
+/Users/manuelgutierrezdelgado/.m2/repository/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.jar = 1620647725681
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/.DS_Store = 1620473240000
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java = 1620634750000
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/generated-sources/annotations = 1620656061000
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/constant-values.html = 1620656086771
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/member-search-index.zip = 1620656087454
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/overview-tree.html = 1620656087371
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/index.html = 1620656087577
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/package-search-index.js = 1620656087447
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/package-search-index.zip = 1620656087451
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/type-search-index.zip = 1620656087453
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/serialized-form.html = 1620656086820
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/index-all.html = 1620656087456
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/allpackages-index.html = 1620656087465
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/deprecated-list.html = 1620656087469
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/member-search-index.js = 1620656087453
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/allclasses.html = 1620656087571
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/script.js = 1620656087589
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/stylesheet.css = 1620656087585
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/overview-summary.html = 1620656087578
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/help-doc.html = 1620656087581
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/element-list = 1620656086578
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/allclasses-index.html = 1620656087462
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/type-search-index.js = 1620656087452
+/Users/manuelgutierrezdelgado/Desktop/superheroes/target/apidocs/search.js = 1620656087590
