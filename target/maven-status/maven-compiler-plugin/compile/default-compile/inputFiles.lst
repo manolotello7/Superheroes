@@ -1,0 +1,12 @@
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/config/SwaggerConfig.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/controller/SuperheroesController.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/entity/Superheroes.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/SuperheroesApplication.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/service/SuperheroesService.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/exception/ResourceNotFoundException.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/config/SecurityConfig.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/model/SuperheroesResponse.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/repository/SuperheroesRepository.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/model/GeneralResponse.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/config/WebMvcConfig.java
+/Users/manuelgutierrezdelgado/Desktop/superheroes/src/main/java/com/example/superheroes/model/SuperheroesRequest.java
